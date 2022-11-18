@@ -16,6 +16,21 @@ def add_collision_pairs():
             for b in pairs[1]:
                 yield a, b, group
 
+def add_collision_group(a, b, group):
+    if group not in collision_group:
+        collision_group[group] = [[], []]
+
+    if a:
+        if type(a) == list:
+            collision_group[group][0] += a
+        else:
+            collision_group[group][0].append(a)
+
+    if b:
+        if type(b) == list:
+            collision_group[group][0] += b
+        else:
+            collision_group[group][0].append(b)
 
 def all_objects():
     for layer in objects:

@@ -3,7 +3,7 @@ import game_framework
 import game_world
 import title_state
 
-from main_character import character
+from main_character import Character
 
 character = None
 
@@ -18,7 +18,7 @@ def collide(a, b):
 
     return True
 
-def handle():
+def handle_events():
     events = get_events()
     for event in events:
         if event.type == SDL_QUIT:
@@ -30,8 +30,35 @@ def handle():
 
 def enter():
     global character
-    main_character = character()
-    game_world.add_objects(character)
+    character = Character()
+    game_world.add_objects(character, 0)
+
+def exit():
+    game_world.clear()
+
+def update():
+    for game_object in game_world.all_objects():
+        game_object.update()
+
+    for a, b, group in game_world.all_collision_pairs():
+        if collide(a, b):
+            a.handle_collision(b, group)
+            b.handle_collision(a, group)
+
+def draw_world():
+    for game_object in game_world.all_objects():
+        game_object.draw()
+
+def draw():
+    clear_canvas()
+    draw_world()
+    update_canvas()
+
+def pause():
+    pass
+
+def resume():
+    pass
 
 def test_self():
     import play_state

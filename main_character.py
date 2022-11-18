@@ -1,10 +1,13 @@
 import game_world
 from pico2d import *
 
-RD, LD, RU, LU  = range(4)
-event_name = ['RD', 'LD', 'RU', 'LU']
+RD, LD, RU, LU, ATTACK1, ATTACK2, ATTACK3 = range(7)
+event_name = ['RD', 'LD', 'RU', 'LU', 'ATTACK1', 'ATTACK2', 'ATTACK3']
 
 key_event_table = {
+    (SDL_KEYDOWN, SDLK_k): ATTACK3,
+    (SDL_KEYDOWN, SDLK_l): ATTACK2,
+    (SDL_KEYDOWN, SDLK_j): ATTACK1,
     (SDL_KEYDOWN, SDLK_RIGHT): RD,
     (SDL_KEYDOWN, SDLK_LEFT): LD,
     (SDL_KEYUP, SDLK_RIGHT): RU,
@@ -12,7 +15,7 @@ key_event_table = {
 }
 
 
-class character:
+class Character:
     image = None
 
     def get_bb(self):
@@ -88,6 +91,22 @@ class IDLE:
         else:
             pass
 
+class ATTACK:
+    def enter(self, event):
+        if event == ATTACK1:
+            pass
+        elif event == ATTACK2:
+            pass
+        elif event == ATTACK3:
+            pass
+
+    def exit(self, event):
+        pass
+    def do(self):
+        pass
+    def draw(self):
+        # 1번 무기 2번 무기 3번 무기 공격 나가게 세팅
+        
 
 class RUN:
     def enter(self, event):
