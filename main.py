@@ -1,10 +1,9 @@
 import game_framework
 import pico2d
-import play_state
-# import logo_state
 
-# start_state = logo_state
-pico2d.open_canvas(1137, 854)
-# game_framework.run(logo_state)
+import play_state
+
+pico2d.open_canvas(1600, 600)
 game_framework.run(play_state)
+# pico2d.delay(0.5)
 pico2d.close_canvas()
