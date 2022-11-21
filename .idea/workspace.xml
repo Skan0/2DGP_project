@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffc66ed3-217b-4dda-8c5c-3fa7ac3a4c17" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/background_00.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/e01_01-hd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/e02_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/e03_01-hd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/e04_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/enemybase-hd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_world.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item_s-hd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo_state.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m02_0-hd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m02_1-hd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m03-hd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m05_0-hd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_character.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_character.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission_failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/play_state.py" beforeDir="false" afterPath="$PROJECT_DIR$/play_state.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/title.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/title_state.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuk_credit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/u_02_2-hd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/u_03_0-hd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/u_03_1-hd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_gameplay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upgrade_equip_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upgrade_equip_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upgrade_equip_02_0-hd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upgrade_equip_02_1-hd.png" beforeDir="false" />
-    </list>
+    <list default="true" id="ffc66ed3-217b-4dda-8c5c-3fa7ac3a4c17" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
