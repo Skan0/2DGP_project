@@ -5,5 +5,4 @@ import play_state
 
 pico2d.open_canvas(1600, 600)
 game_framework.run(play_state)
-# pico2d.delay(0.5)
 pico2d.close_canvas()

@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffc66ed3-217b-4dda-8c5c-3fa7ac3a4c17" name="Changes" comment="" />
+    <list default="true" id="ffc66ed3-217b-4dda-8c5c-3fa7ac3a4c17" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/image/e01_01-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/e02_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/e03_01-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/e04_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/bear/bear1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/bear/bear2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/bear/bear3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/bear/bear4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/bear/bear5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/bear/bear6.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/dragon/dattack.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/dragon/dattack1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/dragon/dwalk1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/dragon/dwalk2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/dragon/dwalk3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/dragon/dwalk5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/dragon/dwalk6.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/kangaroo/kwalk1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/kangaroo/kwalk2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/kangaroo/kwalk3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/kangaroo/kwalk4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/monkey/mwalk1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/monkey/mwalk2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/monkey/mwalk3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/penguin/pwalk1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/penguin/pwalk2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/penguin/pwalk3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/penguin/pwalk4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/penguin/pwalk5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/penguin/pwalk6.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rabbit/rawalk1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rabbit/rawalk2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rabbit/rawalk3_7.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rabbit/rawalk4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rabbit/rawalk5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rabbit/rawalk6.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rabbit/rawalk8.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rabbit/rawalk9.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rat/ratwalk1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rat/ratwalk2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rat/ratwalk3_7.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rat/ratwalk4_6.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rat/ratwalk5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rat/ratwalk8.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rhino/rhwalk1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rhino/rhwalk2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rhino/rhwalk3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rhino/rhwalk4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rhino/rhwalk5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/rhino/rhwalk6.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/turtle/twalk1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/turtle/twalk2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/turtle/twalk3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/turtle/twalk4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/friendly_character/turtle/twalk5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/m01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/m02_0-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/m02_1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/m03-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/m05_0-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/m06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/m07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/m08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/u_02_2-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/u_03_0-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/u_03_1-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move1b.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move2b.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move3b.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move4_6.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move4_6b.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move5b.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move7.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move7b.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move8.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move8b.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move9.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_move9b.PNG" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
